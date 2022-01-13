@@ -1,0 +1,9 @@
+{
+  "name": "use-liba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "liba": "file:../liba"
+  }
+}
